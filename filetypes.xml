@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="student-log" type="PLAIN_TEXT" />
+      <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern="angular" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
